@@ -30,7 +30,7 @@ class Auth
 
     public function valid( $request )
     {   
-        require ('/data/credentials/ssd-api/ssdfar.php');
+        require ('/path/to/credentials');
         $protectedUser = $username;
         $protectedPassword = $password;
         $user = isset($request->getHeader('HTTP_USERNAME')[0]) ? $request->getHeader('HTTP_USERNAME')[0] : null;
