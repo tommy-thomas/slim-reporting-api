@@ -1,7 +1,7 @@
 Slim Reporting API
 ========
 
-The api returns payloads representing entities or operational end points for an Annual Reporting application, it was developed using the [Slim micro framework.](http://www.slimframework.com/)
+The api returns payloads representing entities or operational end points for an Annual Reporting application, I developed it using the [Slim micro framework.](http://www.slimframework.com/)
 
 
 Models
